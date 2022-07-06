@@ -26,8 +26,13 @@ Implementation Requirements:
 
 
 
+# tech stacks 
+- ruby version 3.1.2 
+- rails version 7.0.3 
+- postgresql
+- rpsec 
+- 
 
-Things you may want to cover:
 
 * Ruby version 3.1.2
 * Rails version 7.0.3
