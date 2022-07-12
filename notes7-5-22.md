@@ -6,12 +6,12 @@ Users: metadata for human consumer
 Products: metadata for stock keeping unit
 - name
 - description
-- url_link 
+- url_link
 - landed cost (how much i paid for)
 - price (what i sold for)
 - qty_in_stock
 
-ShoppingCarts: group of products, not mutually exclusive(or can shop for things regardless of if its in stock) that pertains to a users shopping session 
+ShoppingCarts: group of products, not mutually exclusive(or can shop for things regardless of if its in stock) that pertains to a users shopping session
 - Relationship with user
   - One to many: A user can have as many shopping carts as they want 
     - `is active?` Model level validation: Only one shopping cart can be is_active?(active denotes not purchased)
