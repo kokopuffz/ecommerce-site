@@ -24,7 +24,8 @@ Implementation Requirements:
     - report consists of P & L 
       - how much we spent on total landing cost vs price(including any discounts + qty) for everything sold
 
-
+# resources used 
+- https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
 
 # tech stacks 
 - ruby version 3.1.2 
